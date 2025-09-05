@@ -1,6 +1,6 @@
 // 重要：请替换为你从阿里百炼获取的实际API URL和API Key
-const API_URL = '你的API_URL';
-const API_KEY = '你的API_KEY';
+const API_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1';
+const API_KEY = 'sk-ce2b3770b8fe456db1a4993678e351f0';
 
 async function getAnswer() {
     const questionInput = document.getElementById('questionInput');
